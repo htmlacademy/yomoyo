@@ -4,6 +4,7 @@
 | ---------|------|--------|
 | tampermonkey | https://tampermonkey.net | Maximum call stack size exceeded `nrWrapper` |
 | adblock | https://adblockplus.org | ? |
+| Ace Stream Web Extension | http://awe.acestream.me/scripts/acestream/Magic_Player | Maximum call stack size exceeded |
 
 --
 
