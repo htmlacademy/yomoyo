@@ -10,7 +10,7 @@
 
 Если какое-нибудь из этих расширений включено, попробуйте отключить его и открыть страницу заново.
 
-### Как отлючить расширение:
+### Как отключить расширение:
 
 - Internet Explorer http://windows.microsoft.com/ru-ru/internet-explorer/manage-add-ons#ie=ie-10-win-7
 - Mozilla Firefox https://support.mozilla.org/ru/kb/udalenie-dopolnenij
