@@ -8,10 +8,6 @@
 
 :point_right: Заведите [новое ишью здесь](https://github.com/htmlacademy/yomoyo/issues/new), и мы придём на помощь :sparkles:
 
-## Известные ошибки
-
-Известные нам ошибки мы собрали в [отдельном списке](known-issues).
-
 ## Серьёзная уязвимость
 
 Нашли серьёзную уязвимость? Напишите нам на security@htmlacademy.ru :speak_no_evil:
