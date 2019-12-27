@@ -6,7 +6,7 @@
 * Нашли ошибку?
 * Хотите разобраться в чём дело?
 
-:point_right: Заведите [новое ишью здесь](https://github.com/htmlacademy/yomoyo/issues/new), и мы придём на помощь :sparkles:
+:point_right: Заведите [новое ишью здесь](https://github.com/htmlacademy/yomoyo/issues/new), и мы придём на помощь :muscle:
 
 ## Известные ошибки
 
