@@ -6,7 +6,7 @@
 * Хотите предложить улучшение?
 * Хотите разобраться в чём дело?
 
-:point_right: [Заведите новое ишью](https://github.com/htmlacademy/yomoyo/issues/new), и мы придём на помощь :muscle:
+:point_right: [Заведите новое ишью](https://github.com/htmlacademy/yomoyo/issues/new/choose), и мы придём на помощь :muscle:
 
 ## Как это работает
 
