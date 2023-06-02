@@ -1,6 +1,6 @@
 # Академия, ну ё-моё!
 
-<img src="https://cloud.githubusercontent.com/assets/10909/11404232/d6e055da-93b1-11e5-84d0-ec658647fcc3.png" width="200" height="200" align="right">
+<img src="https://cloud.githubusercontent.com/assets/10909/11404232/d6e055da-93b1-11e5-84d0-ec658647fcc3.png" width="200" height="200" align="right" alt="Пиратская карта сокровищ.">
 
 * Нашли ошибку?
 * Хотите предложить улучшение?
