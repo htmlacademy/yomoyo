@@ -1,0 +1,54 @@
+name: 'Тренажёры'
+description: 'Проблемы, вопросы, предложения, связанные с тренажёрами Академии'
+title: '[course] '
+labels: ['category: course']
+# assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Укажите в заголовке в каком тренажёре вы нашли проблему.
+        Например:
+        ```
+        [course][Условия в PHP] Опечатка в «Условие `if` в PHP».
+        ```
+  - type: input
+    id: link
+    attributes:
+      label: Ссылка
+      description: 'Укажите адрес страницы, о которой идёт речь'
+      placeholder: 'https://htmlacademy.ru/courses/307/run/2'
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Проблема или вопрос
+      description: Максимально подробно опишите проблему, с которой вы столкнулись, или ваше предложение по улучшению продуктов Академии
+  - type: textarea
+    id: device-info
+    attributes:
+      label: Информация об устройстве
+      description: |
+        Укажите версию браузера и операционной системы вашего устройства.
+        Напрмер:
+        ```
+        - Девайс: iPhone6
+        - ОС: iOS8.1
+        - Браузер: safari
+        - Версия: 22
+        ```
+      value: |
+        - Девайс:
+        - ОС:
+        - Браузер:
+        - Версия:
+  - type: textarea
+    id: more-info
+    attributes:
+      label: Дополнительная информация
+      description: Можете добавить любую информацию, которая ускорит решение указанной проблемы.
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Возможное решение или предложение по улучшению
+      description: Если есть предложение по решению проблемы, опишите его. Если вариантов несколько, перечислите их.
